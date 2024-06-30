@@ -47,10 +47,33 @@ body{
     display: block;
     margin: 0 auto;
 }
-.gift-image:hover{
+#gift-image-happy:hover{
+    background-image: url("assets/excited-minions.gif");
+    background-size: cover;
+    background-position: center;
+    transition: .2s;
+}
+#gift-image-hot:hover{
+    background-image: url("assets/excited.gif");
+    background-size: cover;
+    background-position: center;
+    transition: .2s;
+}
+#gift-image-genius:hover{
+    background-image: url("assets/think.gif");
+    background-size: cover;
+    background-position: center;
+    transition: .2s;
+}
+#gift-image-badass:hover{
     background-image: url("assets/haha.gif");
     background-size: cover;
     background-position: center;
     transition: .2s;
 }
-
+#gift-image-cheers:hover{
+    background-image: url("assets/whiskey-bottles.jpg");
+    background-size: cover;
+    background-position: center;
+    transition: .2s;
+}
