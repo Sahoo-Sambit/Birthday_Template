@@ -22,13 +22,13 @@ A simple HTML and CSS template for creating birthday cards or invitations.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/birthday-template.git
+   https://github.com/Sahoo-Sambit/Birthday_Template.git
    ```
 
 2. **Navigate to the Directory**
 
    ```bash
-   cd birthday-template
+   cd Birthday_Template
    ```
 
 3. **Open `index.html` in Your Browser**
